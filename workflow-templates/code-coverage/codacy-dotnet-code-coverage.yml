@@ -9,7 +9,8 @@
 #
 # Notes:
 # This requires the CODACY_API_TOKEN GitHub secret which has been
-# added to teh RACWA GitHub organization thus no changes are needed.
+# added to the RACWA GitHub organization. No changes are necessary
+# however this is subject to change in future.
 #
 # The Codacy project should be created automatically and no manual setup
 # work is necessary on the Codacy website.
