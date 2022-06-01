@@ -1,3 +1,4 @@
-# All teams can approve and contribute
-*	@racwa/default-access
+# Default to Admin
+*	@racwa/admin
+
 CODEOWNERS	@racwa/admin

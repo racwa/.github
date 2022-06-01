@@ -1,0 +1,9 @@
+{
+    "name": "Codacy .NET Code Coverage",
+    "description": "Creates and uploads code coverage reports to Codacy for .NET projects. Requires the nuget package coverlet.msbuild in test projects.",
+    "iconName": "Codacy",
+    "categories": [
+        "Coverage",
+        "C#"        
+    ]
+}
