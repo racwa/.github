@@ -1,0 +1,29 @@
+# This workflow will build, test, create codacy project (if necessary) and finally upload the codacy project.
+#
+# Confluence: https://rac-wa.atlassian.net/wiki/spaces/DEVX/pages/2797142067/Github+Actions+Code+Coverage
+# The reusable workflow can be found here:
+# https://github.com/racwa/github-workflows/blob/codacy-dotnet-code-coverage/v1.0.0/.github/workflows/codacy-dotnet-code-coverage.yml
+#
+# Requirements:
+# Test projects should have a package reference to the coverlet.msbuild nuget package.
+#
+# Notes:
+# This requires the CODACY_API_TOKEN GitHub secret which has been
+# added to the RACWA GitHub organization. No changes are necessary
+# however this is subject to change in future.
+#
+# The Codacy project should be created automatically and no manual setup
+# work is necessary on the Codacy website.
+
+name: Codacy .NET Code Coverage
+
+on: ["push"]
+
+jobs:
+  codacy-coverage-reporter:    
+    uses: racwa/github-workflows/.github/workflows/codacy-dotnet-code-coverage.yml@codacy-dotnet-code-coverage/v1.0.0
+    with:
+      dotnet-version: 6.0.*
+      runs-with: ubuntu-latest
+    secrets:
+      CODACY_API_TOKEN: ${{secrets.CODACY_API_TOKEN }}
