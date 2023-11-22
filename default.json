@@ -58,8 +58,17 @@
         }
       },
       {
+        "hostType": "npm",
         "matchHost": "racwa.pkgs.visualstudio.com",
-        "username": "",
+        "username": "VssSessionToken",
+        "encrypted": {
+          "password": "wcFMA/xDdHCJBTolAQ/+PJSER3h3mSJhZbCD75EH1Y/JVumox2qbUHnbpSZ7l7qEYqx2GJbYlOmqfGDYMJV4hRUAcFmxeM6CSWFbbDvnGEi1ocXNQ7FcOF5kUfyEmXBGJ89rnYVZS/nkHqnTRXsGVVroOy5lxEL0aEmnKmP/BnFmXFVQgbudw8Bh1ivVG96AgyZgXFwKnc+T/ZkjP+SGqKrMR5yMe4mQO7coIL0gNutAUTpuiSiLkzNkhLUiC1r6F1MvWe6pQOAkn7AYCIRV+hI8q30nRW/U9wAwq0bxN/aDsjKnTth+VnqYdV8RrtFNDQ3dMFYWIMS73KU+Lja29yITXf2ZP0MdivbhTuD7gQhDf0eoCSyv5br8APhPFzVrm4IZ2aMUd/tYYW3qCAxGDrsppLQxkfyZqeNhqFSmfk+Pe2BTobkGVj0795bOZAI6Th2xnUPGNFDKera1ijWj1Xp0M5osL8jPP2nLVWe8DbD0v1IXZgmCtoA5IU0lR2vmF7FrRQkdKgKweMLdUdpxL35Z2rkJRx29p3xqCblT3MGxjaz9ed1d8NQPI1pXGbm7RdOXp3A2Ue0UIgma+foevSzbo4fVTkT+7AyUBAoG5ore/WbhzcGQUXnTEEmQw2Sm9dB7QgYnawKa222Ez6kOg/0lZ4PjbgNk9qcUrVixzoxjfEcTtwmFm7dyJmpZ/jvSgAHA87FOZ6FiUrhW8BRRliXsJThHgMk1+KZOd+TJfPd5vkQkjc46DUT1VvfikCzUw60T/mosLEPLuSYySrZaD7a/mde+Sxa5ksx4n9g8qtpdYPCTePnxTvWjC0DKBeDYcTC4sABYbAPGlkCOfmRxZodsXaiXVWfZYcx9KKSCghj5"
+        }
+      },
+      {
+        "hostType": "npm",
+        "matchHost": "https://pkgs.dev.azure.com/racwa/_packaging/WebApps_Feed/npm/registry/",
+        "username": "VssSessionToken",
         "encrypted": {
           "password": "wcFMA/xDdHCJBTolAQ/+PJSER3h3mSJhZbCD75EH1Y/JVumox2qbUHnbpSZ7l7qEYqx2GJbYlOmqfGDYMJV4hRUAcFmxeM6CSWFbbDvnGEi1ocXNQ7FcOF5kUfyEmXBGJ89rnYVZS/nkHqnTRXsGVVroOy5lxEL0aEmnKmP/BnFmXFVQgbudw8Bh1ivVG96AgyZgXFwKnc+T/ZkjP+SGqKrMR5yMe4mQO7coIL0gNutAUTpuiSiLkzNkhLUiC1r6F1MvWe6pQOAkn7AYCIRV+hI8q30nRW/U9wAwq0bxN/aDsjKnTth+VnqYdV8RrtFNDQ3dMFYWIMS73KU+Lja29yITXf2ZP0MdivbhTuD7gQhDf0eoCSyv5br8APhPFzVrm4IZ2aMUd/tYYW3qCAxGDrsppLQxkfyZqeNhqFSmfk+Pe2BTobkGVj0795bOZAI6Th2xnUPGNFDKera1ijWj1Xp0M5osL8jPP2nLVWe8DbD0v1IXZgmCtoA5IU0lR2vmF7FrRQkdKgKweMLdUdpxL35Z2rkJRx29p3xqCblT3MGxjaz9ed1d8NQPI1pXGbm7RdOXp3A2Ue0UIgma+foevSzbo4fVTkT+7AyUBAoG5ore/WbhzcGQUXnTEEmQw2Sm9dB7QgYnawKa222Ez6kOg/0lZ4PjbgNk9qcUrVixzoxjfEcTtwmFm7dyJmpZ/jvSgAHA87FOZ6FiUrhW8BRRliXsJThHgMk1+KZOd+TJfPd5vkQkjc46DUT1VvfikCzUw60T/mosLEPLuSYySrZaD7a/mde+Sxa5ksx4n9g8qtpdYPCTePnxTvWjC0DKBeDYcTC4sABYbAPGlkCOfmRxZodsXaiXVWfZYcx9KKSCghj5"
         }
