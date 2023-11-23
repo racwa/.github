@@ -52,18 +52,17 @@
     "hostRules": [
       {
         "matchHost": "racwa.pkgs.visualstudio.com",
+        "username": "",
         "encrypted": {
-          "token": "wcFMA/xDdHCJBTolAQ//V8Agks5bkrKs+kTmMRwwn1mOcTb2xL/exhVlX6hK5Q7fJvn/2bcpDuWbsPxoJsep3Z27aPc9x0+p2fAr1lHqS4gWBjIIitxsuGibE4+FQSrEsg2qRAOE1flrbd0p99GBuJAWDB3s+JsKZQcDYwq/JXtwqCm0pTVgrcT1u/dOQnRTyOkn98g4EFbYlvSoq7+rxdkCOPINfd7ASUT+Siw9H3W3gl8MmeN0Ppz7gyyMZB4PVBNrr5mp7hT07Enk2dSt8yQg5HSLmk7mSOpHrwRW9pNMQPsfnM83qsV/slyAJedEkLcT4VuOufsqLuKmxQvtMwKANm6+5eKa7K8zpmd4xgQPcEnOkvi9BStPfD2vTC78KUg4wYQJ3YO+lvczzthWBbaatQf8gTyBupBGNNicSllvd/6+yc/xTAt6FTnouXuTuI5H+l1oPFJUQb8TBcERs4Alb8MlVpqUbk2rPvearrkiRKcMpwJDFZkVessjwUA2ol21ovcizS8dQ+RP4S6yv+CL5RVwtoDWl/KLhaecA34IvPzr5rkegIyhhH2Tk3RSRD+lmxx7V6S6ZP9n29RYa0XREZ/27qTvrK5jrVuDcZm3ebXvy1VQ4UfxrYHoWoff2fadsUze9nMkdaAFW6Ekd0q6bTUkoo4JrCX8VlWtv9objaxWfaJup5arCws6dObSgAHemvrlCihoET8UTuxIa7kDpQaI/Cr8A+mXcb/qnr3GSGfQQQ8TWhPhPPV5l+3AEIUJts0mtqx20ZC6RTmcNCw1Fit57GiaPp92yI8CyxaWu9r+fhZw1ePeH6u4QKgv8AocpYzNBth8+SahFU1LWcK+w1xR6mmKQ4ROpt2lPIvb"
-        },
-        "authType": "Basic"
+          "password": "wcFMA/xDdHCJBTolAQ//V8Agks5bkrKs+kTmMRwwn1mOcTb2xL/exhVlX6hK5Q7fJvn/2bcpDuWbsPxoJsep3Z27aPc9x0+p2fAr1lHqS4gWBjIIitxsuGibE4+FQSrEsg2qRAOE1flrbd0p99GBuJAWDB3s+JsKZQcDYwq/JXtwqCm0pTVgrcT1u/dOQnRTyOkn98g4EFbYlvSoq7+rxdkCOPINfd7ASUT+Siw9H3W3gl8MmeN0Ppz7gyyMZB4PVBNrr5mp7hT07Enk2dSt8yQg5HSLmk7mSOpHrwRW9pNMQPsfnM83qsV/slyAJedEkLcT4VuOufsqLuKmxQvtMwKANm6+5eKa7K8zpmd4xgQPcEnOkvi9BStPfD2vTC78KUg4wYQJ3YO+lvczzthWBbaatQf8gTyBupBGNNicSllvd/6+yc/xTAt6FTnouXuTuI5H+l1oPFJUQb8TBcERs4Alb8MlVpqUbk2rPvearrkiRKcMpwJDFZkVessjwUA2ol21ovcizS8dQ+RP4S6yv+CL5RVwtoDWl/KLhaecA34IvPzr5rkegIyhhH2Tk3RSRD+lmxx7V6S6ZP9n29RYa0XREZ/27qTvrK5jrVuDcZm3ebXvy1VQ4UfxrYHoWoff2fadsUze9nMkdaAFW6Ekd0q6bTUkoo4JrCX8VlWtv9objaxWfaJup5arCws6dObSgAHemvrlCihoET8UTuxIa7kDpQaI/Cr8A+mXcb/qnr3GSGfQQQ8TWhPhPPV5l+3AEIUJts0mtqx20ZC6RTmcNCw1Fit57GiaPp92yI8CyxaWu9r+fhZw1ePeH6u4QKgv8AocpYzNBth8+SahFU1LWcK+w1xR6mmKQ4ROpt2lPIvb"
+        }          
       },
       {
         "matchHost": "pkgs.dev.azure.com",
         "username": "",
         "encrypted": {
-          "token": "wcFMA/xDdHCJBTolAQ//V8Agks5bkrKs+kTmMRwwn1mOcTb2xL/exhVlX6hK5Q7fJvn/2bcpDuWbsPxoJsep3Z27aPc9x0+p2fAr1lHqS4gWBjIIitxsuGibE4+FQSrEsg2qRAOE1flrbd0p99GBuJAWDB3s+JsKZQcDYwq/JXtwqCm0pTVgrcT1u/dOQnRTyOkn98g4EFbYlvSoq7+rxdkCOPINfd7ASUT+Siw9H3W3gl8MmeN0Ppz7gyyMZB4PVBNrr5mp7hT07Enk2dSt8yQg5HSLmk7mSOpHrwRW9pNMQPsfnM83qsV/slyAJedEkLcT4VuOufsqLuKmxQvtMwKANm6+5eKa7K8zpmd4xgQPcEnOkvi9BStPfD2vTC78KUg4wYQJ3YO+lvczzthWBbaatQf8gTyBupBGNNicSllvd/6+yc/xTAt6FTnouXuTuI5H+l1oPFJUQb8TBcERs4Alb8MlVpqUbk2rPvearrkiRKcMpwJDFZkVessjwUA2ol21ovcizS8dQ+RP4S6yv+CL5RVwtoDWl/KLhaecA34IvPzr5rkegIyhhH2Tk3RSRD+lmxx7V6S6ZP9n29RYa0XREZ/27qTvrK5jrVuDcZm3ebXvy1VQ4UfxrYHoWoff2fadsUze9nMkdaAFW6Ekd0q6bTUkoo4JrCX8VlWtv9objaxWfaJup5arCws6dObSgAHemvrlCihoET8UTuxIa7kDpQaI/Cr8A+mXcb/qnr3GSGfQQQ8TWhPhPPV5l+3AEIUJts0mtqx20ZC6RTmcNCw1Fit57GiaPp92yI8CyxaWu9r+fhZw1ePeH6u4QKgv8AocpYzNBth8+SahFU1LWcK+w1xR6mmKQ4ROpt2lPIvb"
-        },
-        "authType": "Basic"
+          "password": "wcFMA/xDdHCJBTolAQ//V8Agks5bkrKs+kTmMRwwn1mOcTb2xL/exhVlX6hK5Q7fJvn/2bcpDuWbsPxoJsep3Z27aPc9x0+p2fAr1lHqS4gWBjIIitxsuGibE4+FQSrEsg2qRAOE1flrbd0p99GBuJAWDB3s+JsKZQcDYwq/JXtwqCm0pTVgrcT1u/dOQnRTyOkn98g4EFbYlvSoq7+rxdkCOPINfd7ASUT+Siw9H3W3gl8MmeN0Ppz7gyyMZB4PVBNrr5mp7hT07Enk2dSt8yQg5HSLmk7mSOpHrwRW9pNMQPsfnM83qsV/slyAJedEkLcT4VuOufsqLuKmxQvtMwKANm6+5eKa7K8zpmd4xgQPcEnOkvi9BStPfD2vTC78KUg4wYQJ3YO+lvczzthWBbaatQf8gTyBupBGNNicSllvd/6+yc/xTAt6FTnouXuTuI5H+l1oPFJUQb8TBcERs4Alb8MlVpqUbk2rPvearrkiRKcMpwJDFZkVessjwUA2ol21ovcizS8dQ+RP4S6yv+CL5RVwtoDWl/KLhaecA34IvPzr5rkegIyhhH2Tk3RSRD+lmxx7V6S6ZP9n29RYa0XREZ/27qTvrK5jrVuDcZm3ebXvy1VQ4UfxrYHoWoff2fadsUze9nMkdaAFW6Ekd0q6bTUkoo4JrCX8VlWtv9objaxWfaJup5arCws6dObSgAHemvrlCihoET8UTuxIa7kDpQaI/Cr8A+mXcb/qnr3GSGfQQQ8TWhPhPPV5l+3AEIUJts0mtqx20ZC6RTmcNCw1Fit57GiaPp92yI8CyxaWu9r+fhZw1ePeH6u4QKgv8AocpYzNBth8+SahFU1LWcK+w1xR6mmKQ4ROpt2lPIvb"
+        }
       }
     ],
     "nuget": {
