@@ -50,7 +50,7 @@
       }
     ],
     "npmrc": "registry=https://racwa.pkgs.visualstudio.com/_packaging/WebApps_Feed/npm/registry/",
-    "hostrules": [
+    "hostRules": [
       {
         "matchHost": "https://racwa.pkgs.visualstudio.com",
         "username": "",
