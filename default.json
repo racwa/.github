@@ -54,31 +54,23 @@
       {
         "matchHost": "https://racwa.pkgs.visualstudio.com",
         "username": "",
-        "encrypted": {
-          "password": "wcFMA/xDdHCJBTolAQ/+P2xFzwX4L8RwM+KFv1jb33NcmaQaLx70q1F9W9oRlh9lrjmlC0cGKsARAf8a7vOuaYcQDMum+F//gA1pvFwffBVnkVt/VnyZ7wUli2L1CrM0zLz/5+Dcerc+3pYBV9eeKVaf1/yeCksuUQDYzWj6Uz8kJV6nKr6pBnyBUB+L71xGvpCkuI/4LCofVoy3aew+v242RN2p81LrDDUieZRjhRFaqtufQaQW63/qVr+cvEWIpz8ZSsPQfFdno+Ttxqxmc/Z9nxWUuy6x3n2ynNbwtGKWiXHhCjGrfBpGQJ03O3Abha4D4pES4XG0cVKL4bWp3aq4E3IhhXbxAvioJQBCBpl9h5Mghnv0m9qA1MIsNmYj1PP/dO8CLzjvOfKnb9zjYjSqaI5k0gm+0pl/cdLnm17ftYLZRudUYcjz9Axge6vZO2EEFMlJO1Z0bYGVOyO/CvcBVFd8h2l++HWfg3r4q6eqYfREBIo3T43Lw1q1m7aTFSmVL7O7C6SRbnDB2d1X8p2IuACTu/n00AZBaN05yEcyx9I9jFVG8EKVzMr4ul8VolqqE/zgmUkAHxE3V46kjdHMYDtL+AnDgAvsuh50Vns2otTle+oYP4239uOAfEZHncs8ykCLpL4lzLI9zwIjBJlkbqbHvTrvqugXMZ2w2TrrOqCtS2ENvScJD6tzx77SgAGQlT3q9cgFF4mying/wQFb/X0yZzeoQLK3WLdZhCznQlNPOrQNpGA+4ByuMDha2s6eD5dCbuUEPXLp6mVuLKIYVNqmbg5krDoIlAxIsYO7BTLrbUeHSSBIjXz7obYwx05KCF6WjN40qaHepzEoukqqTb2n0PWOZTry6v6CwRNJ"
-        }
+        "password": "5vw2niidoesnhtlmghobhqrfrgdjp5o3afxe2o7xwypvwa3usqna"
       },
       {
         "matchHost": "racwa.pkgs.visualstudio.com",
-        "encrypted": {
-          "token": "wcFMA/xDdHCJBTolAQ/+P2xFzwX4L8RwM+KFv1jb33NcmaQaLx70q1F9W9oRlh9lrjmlC0cGKsARAf8a7vOuaYcQDMum+F//gA1pvFwffBVnkVt/VnyZ7wUli2L1CrM0zLz/5+Dcerc+3pYBV9eeKVaf1/yeCksuUQDYzWj6Uz8kJV6nKr6pBnyBUB+L71xGvpCkuI/4LCofVoy3aew+v242RN2p81LrDDUieZRjhRFaqtufQaQW63/qVr+cvEWIpz8ZSsPQfFdno+Ttxqxmc/Z9nxWUuy6x3n2ynNbwtGKWiXHhCjGrfBpGQJ03O3Abha4D4pES4XG0cVKL4bWp3aq4E3IhhXbxAvioJQBCBpl9h5Mghnv0m9qA1MIsNmYj1PP/dO8CLzjvOfKnb9zjYjSqaI5k0gm+0pl/cdLnm17ftYLZRudUYcjz9Axge6vZO2EEFMlJO1Z0bYGVOyO/CvcBVFd8h2l++HWfg3r4q6eqYfREBIo3T43Lw1q1m7aTFSmVL7O7C6SRbnDB2d1X8p2IuACTu/n00AZBaN05yEcyx9I9jFVG8EKVzMr4ul8VolqqE/zgmUkAHxE3V46kjdHMYDtL+AnDgAvsuh50Vns2otTle+oYP4239uOAfEZHncs8ykCLpL4lzLI9zwIjBJlkbqbHvTrvqugXMZ2w2TrrOqCtS2ENvScJD6tzx77SgAGQlT3q9cgFF4mying/wQFb/X0yZzeoQLK3WLdZhCznQlNPOrQNpGA+4ByuMDha2s6eD5dCbuUEPXLp6mVuLKIYVNqmbg5krDoIlAxIsYO7BTLrbUeHSSBIjXz7obYwx05KCF6WjN40qaHepzEoukqqTb2n0PWOZTry6v6CwRNJ"
-        },
+        "token": "5vw2niidoesnhtlmghobhqrfrgdjp5o3afxe2o7xwypvwa3usqna",        
         "authType": "Basic"
       },
       {
         "matchHost": "https://racwa.pkgs.visualstudio.com/_packaging/WebApps_Feed/npm/registry/",
         "username": "",
-        "encrypted": {
-          "token": "wcFMA/xDdHCJBTolAQ/+P2xFzwX4L8RwM+KFv1jb33NcmaQaLx70q1F9W9oRlh9lrjmlC0cGKsARAf8a7vOuaYcQDMum+F//gA1pvFwffBVnkVt/VnyZ7wUli2L1CrM0zLz/5+Dcerc+3pYBV9eeKVaf1/yeCksuUQDYzWj6Uz8kJV6nKr6pBnyBUB+L71xGvpCkuI/4LCofVoy3aew+v242RN2p81LrDDUieZRjhRFaqtufQaQW63/qVr+cvEWIpz8ZSsPQfFdno+Ttxqxmc/Z9nxWUuy6x3n2ynNbwtGKWiXHhCjGrfBpGQJ03O3Abha4D4pES4XG0cVKL4bWp3aq4E3IhhXbxAvioJQBCBpl9h5Mghnv0m9qA1MIsNmYj1PP/dO8CLzjvOfKnb9zjYjSqaI5k0gm+0pl/cdLnm17ftYLZRudUYcjz9Axge6vZO2EEFMlJO1Z0bYGVOyO/CvcBVFd8h2l++HWfg3r4q6eqYfREBIo3T43Lw1q1m7aTFSmVL7O7C6SRbnDB2d1X8p2IuACTu/n00AZBaN05yEcyx9I9jFVG8EKVzMr4ul8VolqqE/zgmUkAHxE3V46kjdHMYDtL+AnDgAvsuh50Vns2otTle+oYP4239uOAfEZHncs8ykCLpL4lzLI9zwIjBJlkbqbHvTrvqugXMZ2w2TrrOqCtS2ENvScJD6tzx77SgAGQlT3q9cgFF4mying/wQFb/X0yZzeoQLK3WLdZhCznQlNPOrQNpGA+4ByuMDha2s6eD5dCbuUEPXLp6mVuLKIYVNqmbg5krDoIlAxIsYO7BTLrbUeHSSBIjXz7obYwx05KCF6WjN40qaHepzEoukqqTb2n0PWOZTry6v6CwRNJ"
-        },
+        "token": "5vw2niidoesnhtlmghobhqrfrgdjp5o3afxe2o7xwypvwa3usqna",        
         "authType": "Basic"
       },
       {
         "matchHost": "pkgs.dev.azure.com",
         "username": "",
-        "encrypted": {
-          "token": "wcFMA/xDdHCJBTolAQ/+P2xFzwX4L8RwM+KFv1jb33NcmaQaLx70q1F9W9oRlh9lrjmlC0cGKsARAf8a7vOuaYcQDMum+F//gA1pvFwffBVnkVt/VnyZ7wUli2L1CrM0zLz/5+Dcerc+3pYBV9eeKVaf1/yeCksuUQDYzWj6Uz8kJV6nKr6pBnyBUB+L71xGvpCkuI/4LCofVoy3aew+v242RN2p81LrDDUieZRjhRFaqtufQaQW63/qVr+cvEWIpz8ZSsPQfFdno+Ttxqxmc/Z9nxWUuy6x3n2ynNbwtGKWiXHhCjGrfBpGQJ03O3Abha4D4pES4XG0cVKL4bWp3aq4E3IhhXbxAvioJQBCBpl9h5Mghnv0m9qA1MIsNmYj1PP/dO8CLzjvOfKnb9zjYjSqaI5k0gm+0pl/cdLnm17ftYLZRudUYcjz9Axge6vZO2EEFMlJO1Z0bYGVOyO/CvcBVFd8h2l++HWfg3r4q6eqYfREBIo3T43Lw1q1m7aTFSmVL7O7C6SRbnDB2d1X8p2IuACTu/n00AZBaN05yEcyx9I9jFVG8EKVzMr4ul8VolqqE/zgmUkAHxE3V46kjdHMYDtL+AnDgAvsuh50Vns2otTle+oYP4239uOAfEZHncs8ykCLpL4lzLI9zwIjBJlkbqbHvTrvqugXMZ2w2TrrOqCtS2ENvScJD6tzx77SgAGQlT3q9cgFF4mying/wQFb/X0yZzeoQLK3WLdZhCznQlNPOrQNpGA+4ByuMDha2s6eD5dCbuUEPXLp6mVuLKIYVNqmbg5krDoIlAxIsYO7BTLrbUeHSSBIjXz7obYwx05KCF6WjN40qaHepzEoukqqTb2n0PWOZTry6v6CwRNJ"
-        },
+        "token": "5vw2niidoesnhtlmghobhqrfrgdjp5o3afxe2o7xwypvwa3usqna",
         "authType": "Basic"
       }
     ],
