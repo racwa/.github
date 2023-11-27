@@ -18,7 +18,7 @@
       "labels": [
           "security"
       ],
-      "groupName": "[SECURITY-{{{vulnerabilitySeverity}}}]"
+      "groupName": "[{{vulnerabilitySeverity}} vulnerability packages]"
     },
     "packageRules": [    
       {
