@@ -13,12 +13,13 @@
       ]
     },
     "transitiveRemediation" : true,
+    "osvVulnerabilityAlerts": true,
     "vulnerabilityAlerts": {
       "enabled": true,
       "labels": [
           "security"
       ],
-      "groupName": "[{{{updateType}}} vulnerability updates]"
+      "groupName": "{{vulnerabilitySeverity}} vulnerable dependencies"
     },
     "packageRules": [    
       {
