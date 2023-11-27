@@ -17,7 +17,8 @@
       "enabled": true,
       "labels": [
           "security"
-      ]
+      ],
+      "groupName": "[SECURITY-{{{vulnerabilitySeverity}}}]"
     },
     "packageRules": [    
       {
