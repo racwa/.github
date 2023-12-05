@@ -19,7 +19,7 @@
       "labels": [
           "security"
       ],
-      "groupName": "{{vulnerabilitySeverity}} vulnerable dependencies"
+      "groupName": "{{{vulnerabilitySeverity}}} vulnerable dependencies"
     },
     "packageRules": [    
       {
