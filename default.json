@@ -34,7 +34,8 @@
             "bump"
           ],
           "groupName": "all non-major dependencies",
-          "groupSlug": "all-minor-patch"
+          "groupSlug": "all-minor-patch",
+          "dependencyDashboardApproval": true
       },
       {
         "matchUpdateTypes": [
