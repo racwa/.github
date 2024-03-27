@@ -1,4 +1,6 @@
 ## Welcome to RAC WA's GitHub profile!
+![RACWA Logo Banner](/assets/images/RAC-Logo_For-the-Better_Landscape_resized.png)
+
 Welcome to the heart of technology at RAC WA. We're passionate about leveraging technology to enhance the experiences of our members and the community. Explore our [website](https://rac.com.au/about-rac) to learn more about our mission, values, and the impactful projects we're working on!
 
 ### 💻 Careers
